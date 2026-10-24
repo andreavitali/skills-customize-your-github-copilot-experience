@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "dungeon-choice-adventure",
+      "title": "Dungeon Choice Adventure",
+      "description": "Create a text-based adventure game with choices, rooms, and player status tracking.",
+      "path": "assignments/dungeon-choice-adventure",
+      "dueDate": "2026-10-31",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
